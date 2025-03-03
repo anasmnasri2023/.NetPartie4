@@ -13,13 +13,12 @@ namespace AM.Data.Configurations
     {
         public void Configure(EntityTypeBuilder<Plane> builder)
         {
-            // Spécifier le nom de la table
             builder.ToTable("MyPlanes");
 
-            // Définir la clé primaire
+            
             builder.HasKey(p => p.PlaneId);
 
-            // Configurer la propriété Capacity
+            
             builder.Property(p => p.Capacity)
                    .HasColumnName("PlaneCapacity");
         }

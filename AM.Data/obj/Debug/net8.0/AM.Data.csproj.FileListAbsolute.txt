@@ -33,3 +33,4 @@ C:\Users\user\Downloads\.net\AM.Data\obj\Debug\net8.0\AM.Data.csproj.CoreCompile
 C:\Users\user\Downloads\.net\AM.Data\obj\Debug\net8.0\AM.Data.csproj.Up2Date
 C:\Users\user\Downloads\.net\AM.Data\obj\Debug\net8.0\AM.Data.genruntimeconfig.cache
 C:\Users\user\Downloads\.net\AM.Data\obj\Debug\net8.0\ref\AM.Data.dll
+C:\Users\user\Downloads\.net\AM.Data\obj\Debug\net8.0\AM.Data.sourcelink.json

@@ -33,6 +33,10 @@ namespace AM.Data
              Initial Catalog = Airport;
              Integrated Security = true");
         }
-        
+        protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
+        {
+            configurationBuilder.Properties<DateTime>().HaveColumnType("date");
+        }
+
     }
 }

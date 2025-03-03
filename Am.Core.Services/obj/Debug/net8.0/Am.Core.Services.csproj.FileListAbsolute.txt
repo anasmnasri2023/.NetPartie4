@@ -29,3 +29,4 @@ C:\Users\user\Downloads\.net\Am.Core.Services\obj\Debug\net8.0\Am.Core.Services.
 C:\Users\user\Downloads\.net\Am.Core.Services\obj\Debug\net8.0\refint\Am.Core.Services.dll
 C:\Users\user\Downloads\.net\Am.Core.Services\obj\Debug\net8.0\Am.Core.Services.pdb
 C:\Users\user\Downloads\.net\Am.Core.Services\obj\Debug\net8.0\ref\Am.Core.Services.dll
+C:\Users\user\Downloads\.net\Am.Core.Services\obj\Debug\net8.0\Am.Core.Services.sourcelink.json

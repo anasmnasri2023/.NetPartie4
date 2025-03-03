@@ -21,3 +21,4 @@ C:\Users\user\Downloads\.net\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.dll
 C:\Users\user\Downloads\.net\AM.Core.Domain\obj\Debug\net8.0\refint\AM.Core.Domain.dll
 C:\Users\user\Downloads\.net\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.pdb
 C:\Users\user\Downloads\.net\AM.Core.Domain\obj\Debug\net8.0\ref\AM.Core.Domain.dll
+C:\Users\user\Downloads\.net\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.sourcelink.json

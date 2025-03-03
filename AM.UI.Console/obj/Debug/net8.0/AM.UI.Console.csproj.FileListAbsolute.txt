@@ -311,3 +311,4 @@ C:\Users\user\Downloads\.net\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.csproj
 C:\Users\user\Downloads\.net\AM.UI.Console\obj\Debug\net8.0\AM.UI.Co.4983CB9F.Up2Date
 C:\Users\user\Downloads\.net\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.genruntimeconfig.cache
 C:\Users\user\Downloads\.net\AM.UI.Console\obj\Debug\net8.0\ref\AM.UI.Console.dll
+C:\Users\user\Downloads\.net\AM.UI.Console\obj\Debug\net8.0\AM.UI.Console.sourcelink.json

@@ -50,16 +50,16 @@ namespace AM.Data.Migrations
                         .HasColumnType("float");
 
                     b.Property<DateTime>("FlightDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("date");
 
-                    b.Property<int>("PlaneId")
+                    b.Property<int?>("PlaneId")
                         .HasColumnType("int");
 
                     b.HasKey("FlightId");
 
                     b.HasIndex("PlaneId");
 
-                    b.ToTable("Flights", (string)null);
+                    b.ToTable("Flights");
                 });
 
             modelBuilder.Entity("AM.Core.Domain.Passenger", b =>
@@ -69,7 +69,7 @@ namespace AM.Data.Migrations
                         .HasColumnType("nvarchar(7)");
 
                     b.Property<DateTime>("BirthDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("date");
 
                     b.Property<string>("Discriminator")
                         .IsRequired()
@@ -114,7 +114,7 @@ namespace AM.Data.Migrations
                         .HasColumnName("PlaneCapacity");
 
                     b.Property<DateTime>("ManufactureDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("date");
 
                     b.Property<int>("MyPlaneType")
                         .HasColumnType("int");
@@ -136,7 +136,7 @@ namespace AM.Data.Migrations
 
                     b.HasIndex("PassengersPassportNumber");
 
-                    b.ToTable("FlightPassenger", (string)null);
+                    b.ToTable("FP", (string)null);
                 });
 
             modelBuilder.Entity("AM.Core.Domain.Staff", b =>
@@ -144,7 +144,7 @@ namespace AM.Data.Migrations
                     b.HasBaseType("AM.Core.Domain.Passenger");
 
                     b.Property<DateTime>("EmployementDate")
-                        .HasColumnType("datetime2");
+                        .HasColumnType("date");
 
                     b.Property<string>("Fonction")
                         .IsRequired()
@@ -176,8 +176,7 @@ namespace AM.Data.Migrations
                     b.HasOne("AM.Core.Domain.Plane", "MyPlane")
                         .WithMany("Flights")
                         .HasForeignKey("PlaneId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .OnDelete(DeleteBehavior.SetNull);
 
                     b.Navigation("MyPlane");
                 });

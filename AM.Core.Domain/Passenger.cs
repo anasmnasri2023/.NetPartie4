@@ -23,10 +23,11 @@ namespace AM.Core.Domain
 
         
         [StringLength(25, MinimumLength = 3, ErrorMessage = "Le prénom doit contenir entre 3 et 25 caractères.")]
-        public string FirstName{ get; set; }
-        public string LastName { get; set; }
+        //public string FirstName{ get; set; }
+        //public string LastName { get; set; }
+        public FullName MyFullName { get; set; }
 
-        
+
         [Phone(ErrorMessage = "Veuillez entrer un numéro de téléphone valide.")]
         public int Telnumber { get; set; }
         public IList<Flight> Flightes { get; set; }
@@ -35,7 +36,7 @@ namespace AM.Core.Domain
 
         public bool CheckProfile(string firstName, string lastName)
         {
-            return FirstName == firstName && LastName == lastName;
+            return MyFullName.FirstName == firstName && MyFullName.LastName == lastName;
         }
 
         public bool CheckProfile(string firstName, string lastName, string email)

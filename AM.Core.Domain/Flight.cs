@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace AM.Core.Domain
-{
+{    
     public class Flight
     {
         public string Comment { get; set; }
@@ -21,7 +21,7 @@ namespace AM.Core.Domain
         public Plane MyPlane { get; set; }
 
         [ForeignKey("MyPlane")]
-        public int PlaneId { get; set; }
+        public int? PlaneId { get; set; }
         public IList<Passenger> Passengers { get; set; }
         public override string ToString()
         {
