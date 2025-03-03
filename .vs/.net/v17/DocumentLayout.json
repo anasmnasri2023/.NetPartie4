@@ -58,8 +58,7 @@
               "RelativeToolTip": "AM.Core.Domain\\Flight.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:12:04.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:12:04.914Z"
             },
             {
               "$type": "Document",
@@ -71,18 +70,16 @@
               "RelativeToolTip": "AM.Data\\AM.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T11:03:17.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:03:17.98Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "dbo.__EFMigrationsHistory [Donn\u00E9es]",
+              "Title": "dbo.__EFMigrationsHistory.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Airport/True/SqlTable/dbo.__EFMigrationsHistory.sql",
-              "ToolTip": "dbo.__EFMigrationsHistory [Donn\u00E9es]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Airport/True/SqlTable/dbo.__EFMigrationsHistory.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-03T10:56:00.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:56:00.614Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "AM.UI.Console\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:55:37.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:55:37.556Z"
             },
             {
               "$type": "Document",
@@ -107,8 +103,7 @@
               "RelativeToolTip": "AM.Data\\AMContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T09:45:52.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T09:45:52.841Z"
             }
           ]
         }

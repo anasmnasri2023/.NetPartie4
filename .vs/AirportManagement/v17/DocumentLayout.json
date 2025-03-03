@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\.net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303184156_PassengerConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Data\\Migrations\\20250303184156_PassengerConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBB3238-9CE9-4923-A673-12660BEA3EB1}|AM.Data\\AM.Data.csproj|c:\\users\\user\\downloads\\.net\\am.data\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBB3238-9CE9-4923-A673-12660BEA3EB1}|AM.Data\\AM.Data.csproj|solutionrelative:am.data\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBB3238-9CE9-4923-A673-12660BEA3EB1}|AM.Data\\AM.Data.csproj|c:\\users\\user\\downloads\\.net\\am.data\\configurations\\passengerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBB3238-9CE9-4923-A673-12660BEA3EB1}|AM.Data\\AM.Data.csproj|solutionrelative:am.data\\configurations\\passengerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73BF001A-C6F8-47E4-A27D-1CB6ED304DEE}|AM.Core.Domain\\AM.Core.Domain.csproj|c:\\users\\user\\downloads\\.net\\am.core.domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BF001A-C6F8-47E4-A27D-1CB6ED304DEE}|AM.Core.Domain\\AM.Core.Domain.csproj|solutionrelative:am.core.domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303125730_Pre-Conventions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.Data\\Migrations\\20250303125730_Pre-Conventions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CBB3238-9CE9-4923-A673-12660BEA3EB1}|AM.Data\\AM.Data.csproj|c:\\users\\user\\downloads\\.net\\am.data\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CBB3238-9CE9-4923-A673-12660BEA3EB1}|AM.Data\\AM.Data.csproj|solutionrelative:am.data\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73BF001A-C6F8-47E4-A27D-1CB6ED304DEE}|AM.Core.Domain\\AM.Core.Domain.csproj|c:\\users\\user\\downloads\\.net\\am.core.domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,45 +59,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250303184156_PassengerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303184156_PassengerConfig.cs",
+              "RelativeDocumentMoniker": "AM.Data\\Migrations\\20250303184156_PassengerConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303184156_PassengerConfig.cs",
+              "RelativeToolTip": "AM.Data\\Migrations\\20250303184156_PassengerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:41:56.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PassengerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Configurations\\PassengerConfig.cs",
+              "RelativeDocumentMoniker": "AM.Data\\Configurations\\PassengerConfig.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Configurations\\PassengerConfig.cs",
+              "RelativeToolTip": "AM.Data\\Configurations\\PassengerConfig.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:38:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Passenger.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Core.Domain\\Passenger.cs",
               "RelativeDocumentMoniker": "AM.Core.Domain\\Passenger.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\.net\\AM.Core.Domain\\Passenger.cs",
               "RelativeToolTip": "AM.Core.Domain\\Passenger.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T13:06:28.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FullName.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Core.Domain\\FullName.cs",
               "RelativeDocumentMoniker": "AM.Core.Domain\\FullName.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\.net\\AM.Core.Domain\\FullName.cs",
               "RelativeToolTip": "AM.Core.Domain\\FullName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T13:05:29.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250303125830_Pre-Conventions.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303125830_Pre-Conventions.cs",
-              "RelativeDocumentMoniker": "AM.Data\\Migrations\\20250303125830_Pre-Conventions.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303125830_Pre-Conventions.cs",
-              "RelativeToolTip": "AM.Data\\Migrations\\20250303125830_Pre-Conventions.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwD0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:58:30.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "20250303125802_Pre-Conventions.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303125802_Pre-Conventions.cs",
               "RelativeDocumentMoniker": "AM.Data\\Migrations\\20250303125802_Pre-Conventions.cs",
@@ -97,12 +118,11 @@
               "RelativeToolTip": "AM.Data\\Migrations\\20250303125802_Pre-Conventions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:58:02.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:58:02.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "20250303125730_Pre-Conventions.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303125730_Pre-Conventions.cs",
               "RelativeDocumentMoniker": "AM.Data\\Migrations\\20250303125730_Pre-Conventions.cs",
@@ -110,12 +130,11 @@
               "RelativeToolTip": "AM.Data\\Migrations\\20250303125730_Pre-Conventions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:57:30.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:57:30.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Core.Domain\\Flight.cs",
               "RelativeDocumentMoniker": "AM.Core.Domain\\Flight.cs",
@@ -123,25 +142,36 @@
               "RelativeToolTip": "AM.Core.Domain\\Flight.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:50:25.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:50:25.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AMContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\AMContext.cs",
               "RelativeDocumentMoniker": "AM.Data\\AMContext.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\AMContext.cs",
               "RelativeToolTip": "AM.Data\\AMContext.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:42:50.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "20250303125830_Pre-Conventions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303125830_Pre-Conventions.cs",
+              "RelativeDocumentMoniker": "AM.Data\\Migrations\\20250303125830_Pre-Conventions.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303125830_Pre-Conventions.cs",
+              "RelativeToolTip": "AM.Data\\Migrations\\20250303125830_Pre-Conventions.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:58:30.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20250303123833_flightconfig.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\20250303123833_flightconfig.cs",
               "RelativeDocumentMoniker": "AM.Data\\Migrations\\20250303123833_flightconfig.cs",
@@ -149,12 +179,11 @@
               "RelativeToolTip": "AM.Data\\Migrations\\20250303123833_flightconfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:40:34.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:40:34.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AMContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\.net\\AM.Data\\Migrations\\AMContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "AM.Data\\Migrations\\AMContextModelSnapshot.cs",
@@ -162,8 +191,7 @@
               "RelativeToolTip": "AM.Data\\Migrations\\AMContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T12:40:31.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T12:40:31.043Z"
             }
           ]
         }

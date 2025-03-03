@@ -23,6 +23,7 @@ namespace AM.Data
             // Appliquer les configurations
             modelBuilder.ApplyConfiguration(new FlightConfig());
             modelBuilder.ApplyConfiguration(new PlaneConfig());
+            modelBuilder.ApplyConfiguration(new PassengerConfig());
 
             // Alternative: appliquer toutes les configurations dans l'assembly
             // modelBuilder.ApplyConfigurationsFromAssembly(typeof(AMContext).Assembly);
